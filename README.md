@@ -372,7 +372,6 @@ This library is provided for educational and research purposes.
 This library demonstrates that **Kalman filter-based volatility targeting can significantly improve risk-adjusted returns**:
 
 ✅ **+39% average Sharpe ratio improvement** across 100 Monte Carlo simulations  
-✅ **68% win rate** vs buy-and-hold  
 ✅ **More consistent volatility** (lower variance of realized volatility)  
 ✅ **Real-time implementation** suitable for live trading  
 ✅ **Simple and interpretable** methodology  
