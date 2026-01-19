@@ -14,6 +14,8 @@ This library demonstrates how real-time volatility estimation using Kalman filte
 | **Annualized Return** | 8.0% | 26.9% | **+235%** |
 | **Win Rate** | - | - | **68%** |
 
+![image alt](https://github.com/Ivan9621/kalman-vol-targeting/blob/0704563c34b9a1b9c900e98da25da2e44dc64ab3/volatility_targeting_single_path.png)
+
 ## The Volatility Targeting Strategy
 
 ### Mathematical Framework
