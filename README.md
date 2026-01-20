@@ -6,7 +6,7 @@ A Python library implementing Kalman filter-based volatility estimation for quan
 
 This library demonstrates how real-time volatility estimation using Kalman filters can dramatically improve portfolio performance through dynamic position sizing. By scaling positions inversely to estimated volatility, we achieve higher Sharpe ratios and more consistent returns.
 
-### Key Results from Monte Carlo Analysis (100 simulations)
+### Key Results from Monte Carlo Analysis (100 simulations 0.5 sigma, 0.04 theta, 1.5 kappa, 0.08 mu)
 
 | Metric | Buy & Hold | Volatility Targeting | Improvement |
 |--------|------------|---------------------|-------------|
