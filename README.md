@@ -13,9 +13,9 @@ This library demonstrates how real-time volatility estimation using Kalman filte
 | **Sharpe Ratio** | 0.72 | 1.00 | **+39%** |
 | **Annualized Return** | 8.0% | 26.9% | **+235%** |
 
-**Volatility Estimation**
+**Volatility Targeting results under different Volatility of Volatility & Mean Reversion speed**
 
-![image alt](https://github.com/Ivan9621/kalman-vol-targeting/blob/ddf31d975a0a569887fd9ec40a16d18bbaad3929/kalman_volatility_estimation.png)
+![image alt](https://github.com/Ivan9621/kalman-vol-targeting/blob/edb41e77ca443b36084b17145fdcf4e9e0437757/vol_targeting_surface_analysis.png)
 
 
 **Single Path Example**
@@ -24,7 +24,7 @@ This library demonstrates how real-time volatility estimation using Kalman filte
 
 
 
-**Monte Carlo**
+**Monte Carlo 100 Simulations**
 
 ![image alt](https://github.com/Ivan9621/kalman-vol-targeting/blob/ddf31d975a0a569887fd9ec40a16d18bbaad3929/volatility_targeting_monte_carlo.png)
 
