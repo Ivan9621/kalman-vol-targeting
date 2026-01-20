@@ -15,18 +15,18 @@ This library demonstrates how real-time volatility estimation using Kalman filte
 
 **Volatility Targeting results under different Volatility of Volatility & Mean Reversion speed**
 
-![image alt](https://github.com/Ivan9621/kalman-vol-targeting/blob/edb41e77ca443b36084b17145fdcf4e9e0437757/vol_targeting_surface_analysis.png)
+![image alt](https://github.com/Ivan9621/kalman-vol-targeting/blob/main/vol_targeting_surface_analysis.png)
 
 
 **Single Path Example**
 
-![image alt](https://github.com/Ivan9621/kalman-vol-targeting/blob/ddf31d975a0a569887fd9ec40a16d18bbaad3929/volatility_targeting_single_path.png)
+![image alt](https://github.com/Ivan9621/kalman-vol-targeting/blob/main/volatility_targeting_single_path.png)
 
 
 
 **Monte Carlo 100 Simulations**
 
-![image alt](https://github.com/Ivan9621/kalman-vol-targeting/blob/ddf31d975a0a569887fd9ec40a16d18bbaad3929/volatility_targeting_monte_carlo.png)
+![image alt](https://github.com/Ivan9621/kalman-vol-targeting/blob/main/volatility_targeting_monte_carlo.png)
 
 
 
